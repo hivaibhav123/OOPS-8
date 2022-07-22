@@ -17,3 +17,9 @@ obj1 = Derived()
 obj2 = Base()
 print("Accessing protected member of obj1: ", obj1._a)
 print("Accessing protected member of obj2: ", obj2._a)
+
+#Calling protected member of base class:  2
+#Calling modified protected member outside class:  3
+#Accessing protected member of obj1:  3
+#Accessing protected member of obj2:  2
+> 

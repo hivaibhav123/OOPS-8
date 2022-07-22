@@ -8,3 +8,10 @@ def AbyB(a , b):
   
 AbyB(2.0, 3.0)
 AbyB(3.0, 3.0)
+
+#output
+#File "<string>", line 12
+    #© 2022 GitHub, Inc.
+    #^
+#SyntaxError: invalid character in identifier
+#> 

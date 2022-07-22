@@ -31,3 +31,9 @@ c.sound()
  
 c = Snake()
 c.sound()
+
+#output
+#I am going to sleep in a while
+#I can meow
+#I can hiss
+> 

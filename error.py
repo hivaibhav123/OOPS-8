@@ -7,3 +7,8 @@ except ZeroDivisionError:
   
 finally:
     print("This is always executed")
+    
+    #output
+    #Can't divide by zero
+    #This is always executed
+#> 
